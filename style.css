@@ -149,8 +149,11 @@ h1{
 .join-us {
     background-color: #805454;
     color: white;
+    border-radius: 4px;
     display: flex; 
     align-items: center;
+    padding: 50px 80px;
+    margin: 80px 300px;
 }
 
 .full-text {
@@ -166,4 +169,9 @@ h1{
 
 .one-of-us {
     margin-right: 10px;
+    background-color:#805454;
+    color: white;
+    border:1px solid white;
+    padding: 8px 25px;
+    border-radius: 8px;
 }
