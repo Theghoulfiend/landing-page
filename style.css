@@ -120,18 +120,28 @@ h1{
     flex-wrap: wrap;
     max-width: 200px;
     text-align: center;
-
 }
 
 /*Quotes*/ 
 
 .quotes {
     background-color: #E6E6E6;
+    padding: 80px 150px 80px 150px;
+    margin-top: 100px;
+}
+
+.sir-nikko{
+    margin: 0 0 100px 0;
+}
+
+.quote-text {
+    margin: 0 0 0 0; 
 }
 
 .cat-name {
     display: flex;
     justify-content: flex-end;
+    margin: 0 0 0 0; 
 }
 
 /* Call to Action section*/
