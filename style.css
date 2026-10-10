@@ -112,11 +112,15 @@ h1{
 .small-img {
     max-width: 200px;
     max-height: 200px;
+    border:4px solid #805454;
+    border-radius: 8px;
 }
 
 .container-img {
     flex-wrap: wrap;
     max-width: 200px;
+    text-align: center;
+
 }
 
 /*Quotes*/ 
