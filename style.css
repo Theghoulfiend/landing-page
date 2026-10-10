@@ -175,3 +175,12 @@ h1{
     padding: 8px 25px;
     border-radius: 8px;
 }
+
+/*footer section*/ 
+
+.footer {
+    background-color:#39040f;
+    color: white;
+    text-align: center;
+    padding: 10px 0px;
+}
